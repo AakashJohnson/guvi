@@ -1,2 +1,2 @@
 Welcome to my Guvi repository
-All the task have been created branch wise
+all the task's have been created branch wise
